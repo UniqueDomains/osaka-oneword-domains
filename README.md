@@ -80,7 +80,7 @@ print(df.head())
 | yellow.osaka     | premium   | —         | —             | 116            | 99     | 6      | —         |
 | alpha.osaka      | available | $39.99    | $39.99        | 90             | 53     | 5      | name.com  |
 | beat.osaka       | premium   | —         | —             | 112            | 99     | 4      | —         |
-| fast.osaka       | available | $39.99    | $39.99        | 82             | 53     | 4      | name.com  |
+| fast.osaka       | available | $39.99    | $39.99        | 82             | 52     | 4      | name.com  |
 | support.osaka    | premium   | —         | —             | 112            | 99     | 7      | —         |
 | athletics.osaka  | available | $41.98    | —             | 69             | 52     | 9      | namecheap |
 | funny.osaka      | premium   | —         | —             | 111            | 99     | 5      | —         |
