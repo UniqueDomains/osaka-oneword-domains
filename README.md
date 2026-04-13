@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .osaka one-word domains from Uniqu
 
 **Public extract:** 9,865 rows · **Live catalog:** 9,865 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/osaka`  
 **Best for:** founders, investors, studios
 
@@ -76,9 +76,9 @@ print(df.head())
 | weather.osaka    | premium   | —         | —             | 118            | 99     | 7      | —         |
 | good.osaka       | available | $39.99    | $39.99        | 82             | 55     | 4      | name.com  |
 | color.osaka      | premium   | —         | —             | 116            | 99     | 5      | —         |
-| alpha.osaka      | available | $39.99    | $39.99        | 90             | 54     | 5      | name.com  |
-| yellow.osaka     | premium   | —         | —             | 116            | 99     | 6      | —         |
 | zero.osaka       | available | $39.99    | $39.99        | 112            | 53     | 4      | name.com  |
+| yellow.osaka     | premium   | —         | —             | 116            | 99     | 6      | —         |
+| alpha.osaka      | available | $39.99    | $39.99        | 90             | 53     | 5      | name.com  |
 | beat.osaka       | premium   | —         | —             | 112            | 99     | 4      | —         |
 | fast.osaka       | available | $39.99    | $39.99        | 82             | 53     | 4      | name.com  |
 | support.osaka    | premium   | —         | —             | 112            | 99     | 7      | —         |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OSAKA One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OSAKA One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
