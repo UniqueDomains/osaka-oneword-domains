@@ -1,22 +1,22 @@
-# Available .OSAKA One-Word Domains (9,865)
+# Available .OSAKA One-Word Domains (12,274)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C865%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C865%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C274%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .osaka one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .osaka one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,274 domains** on the canonical page below.
 
-**Public extract:** 9,865 rows · **Live catalog:** 9,865 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,274 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/osaka`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .OSAKA one-word domain
 
 ### Files
 
-- `osaka.csv` — public CSV extract (9,865 rows)
-- `osaka.json` — public JSON extract (9,865 rows)
+- `osaka.csv` — public CSV extract (1,000 rows)
+- `osaka.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| converse.osaka   | available | $39.99    | $39.99        | 64             | 73     | 8      | name.com  |
-| secret.osaka     | premium   | —         | —             | 112            | 100    | 6      | —         |
-| easy.osaka       | available | $39.99    | $39.99        | 128            | 68     | 4      | name.com  |
-| central.osaka    | premium   | —         | —             | 70             | 100    | 7      | —         |
-| nationwide.osaka | available | $39.99    | $39.99        | 76             | 66     | 10     | name.com  |
-| clean.osaka      | premium   | —         | —             | 130            | 99     | 5      | —         |
-| seventeen.osaka  | available | $39.99    | $39.99        | 84             | 62     | 9      | name.com  |
-| gay.osaka        | premium   | —         | —             | 122            | 99     | 3      | —         |
-| ace.osaka        | available | $39.99    | $39.99        | 88             | 57     | 3      | name.com  |
-| weather.osaka    | premium   | —         | —             | 118            | 99     | 7      | —         |
-| good.osaka       | available | $39.99    | $39.99        | 82             | 55     | 4      | name.com  |
-| color.osaka      | premium   | —         | —             | 116            | 99     | 5      | —         |
-| zero.osaka       | available | $39.99    | $39.99        | 112            | 53     | 4      | name.com  |
-| yellow.osaka     | premium   | —         | —             | 116            | 99     | 6      | —         |
-| alpha.osaka      | available | $39.99    | $39.99        | 90             | 53     | 5      | name.com  |
-| beat.osaka       | premium   | —         | —             | 112            | 99     | 4      | —         |
-| fast.osaka       | available | $39.99    | $39.99        | 82             | 52     | 4      | name.com  |
-| support.osaka    | premium   | —         | —             | 112            | 99     | 7      | —         |
-| athletics.osaka  | available | $41.98    | —             | 69             | 52     | 9      | namecheap |
-| funny.osaka      | premium   | —         | —             | 111            | 99     | 5      | —         |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| IsleofMan.osaka     | available | $41.98    | —             | 62             | 91     | 11     | namecheap |
+| RedSox.osaka        | available | $41.98    | —             | 72             | 60     | 7      | namecheap |
+| keepthechange.osaka | available | $39.99    | —             | 46             | 59     | 15     | name.com  |
+| coins.osaka         | available | $39.99    | —             | 56             | 41     | 5      | name.com  |
+| shortcuts.osaka     | available | $39.99    | —             | 48             | 41     | 10     | name.com  |
+| whynot.osaka        | available | $39.99    | —             | 74             | 39     | 7      | name.com  |
+| prompts.osaka       | available | $39.99    | —             | 54             | 39     | 7      | name.com  |
+| neuroscience.osaka  | available | $39.99    | —             | 80             | 37     | 12     | name.com  |
+| teams.osaka         | available | $39.99    | —             | 62             | 32     | 5      | name.com  |
+| letsgo.osaka        | available | $39.99    | —             | 57             | 31     | 7      | name.com  |
+| spaces.osaka        | available | $39.99    | —             | 54             | 30     | 6      | name.com  |
+| heroes.osaka        | available | $39.99    | —             | 68             | 29     | 6      | name.com  |
+| blocks.osaka        | available | $39.99    | —             | 53             | 29     | 6      | name.com  |
+| Jim.osaka           | available | $41.98    | —             | 78             | 28     | 3      | namecheap |
+| forms.osaka         | available | $39.99    | —             | 54             | 28     | 5      | name.com  |
+| backyard.osaka      | available | $39.99    | —             | 80             | 27     | 9      | name.com  |
+| gods.osaka          | available | $39.99    | —             | 72             | 27     | 4      | name.com  |
+| bees.osaka          | available | $39.99    | —             | 54             | 27     | 4      | name.com  |
+| Trex.osaka          | available | $41.98    | —             | 80             | 24     | 5      | namecheap |
+| motorsport.osaka    | available | $39.99    | —             | 74             | 23     | 10     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,865-row public sample | 9,865 live domains                               |
+| 1,000-row public sample | 12,274 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OSAKA One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OSAKA One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
