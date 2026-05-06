@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .osaka one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,734 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,734 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,734 domains · **Median ask:** $40.11 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/osaka`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,15 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Trex.osaka          | available | $41.98    | —             | 80             | 24     | 5      | namecheap |
+| finals.osaka        | available | $39.99    | —             | 80             | 7      | 6      | name.com  |
+| forces.osaka        | available | $39.99    | —             | 82             | 12     | 6      | name.com  |
+| useit.osaka         | available | $39.99    | —             | 94             | 7      | 6      | name.com  |
+| gearup.osaka        | available | $39.99    | —             | 80             | 16     | 7      | name.com  |
+| playon.osaka        | available | $39.99    | —             | 80             | 14     | 7      | name.com  |
+| QandA.osaka         | available | $41.98    | —             | 80             | 10     | 7      | namecheap |
+| toneup.osaka        | available | $39.99    | —             | 80             | 5      | 7      | name.com  |
+| dogsick.osaka       | available | $39.99    | —             | 90             | 1      | 7      | name.com  |
 | IsleofMan.osaka     | available | $41.98    | —             | 62             | 91     | 11     | namecheap |
 | RedSox.osaka        | available | $41.98    | —             | 72             | 60     | 7      | namecheap |
 | keepthechange.osaka | available | $39.99    | —             | 46             | 59     | 15     | name.com  |
@@ -75,15 +84,6 @@ print(df.head())
 | letsgo.osaka        | available | $39.99    | —             | 57             | 31     | 7      | name.com  |
 | spaces.osaka        | available | $39.99    | —             | 54             | 30     | 6      | name.com  |
 | heroes.osaka        | available | $39.99    | —             | 68             | 29     | 6      | name.com  |
-| blocks.osaka        | available | $39.99    | —             | 53             | 29     | 6      | name.com  |
-| Jim.osaka           | available | $41.98    | —             | 78             | 28     | 3      | namecheap |
-| forms.osaka         | available | $39.99    | —             | 54             | 28     | 5      | name.com  |
-| backyard.osaka      | available | $39.99    | —             | 80             | 27     | 9      | name.com  |
-| gods.osaka          | available | $39.99    | —             | 72             | 27     | 4      | name.com  |
-| bees.osaka          | available | $39.99    | —             | 54             | 27     | 4      | name.com  |
-| Trex.osaka          | available | $41.98    | —             | 80             | 24     | 5      | namecheap |
-| motorsport.osaka    | available | $39.99    | —             | 74             | 23     | 10     | name.com  |
-| inhouse.osaka       | available | $39.99    | —             | 70             | 23     | 8      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,734 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,734 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .osaka domains. The set ranges from generic terms like tips.osaka and girls.osaka to shorter coined or ambiguous names such as Acup.osaka and barup.osaka. For founders, the main question is whether the word stays clear, memorable, and credible with a .osaka ending. For investors, the key test is whether the word has enough commercial relevance to justify the extension and the ask. With a median ask of 40.11, price is relatively accessible, but quality still depends on exact-match clarity, broad usability, and possible trademark friction in names like Trex.osaka or WiFi.osaka.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize words that still read naturally with .osaka
+- Use exact meaning and memorability to separate weak names
+- Check trademark exposure on brand-like terms such as Trex
+- Low ask does not remove extension-fit or resale risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OSAKA One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OSAKA One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
