@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .osaka one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,734 domains · **Median ask:** $40.11 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/osaka`  
 **Best for:** founders, investors, studios
 
@@ -76,8 +76,8 @@ print(df.head())
 | IsleofMan.osaka     | available | $41.98    | —             | 62             | 91     | 11     | namecheap |
 | RedSox.osaka        | available | $41.98    | —             | 72             | 60     | 7      | namecheap |
 | keepthechange.osaka | available | $39.99    | —             | 46             | 59     | 15     | name.com  |
+| whynot.osaka        | available | $39.99    | —             | 74             | 44     | 7      | name.com  |
 | shortcuts.osaka     | available | $39.99    | —             | 48             | 41     | 10     | name.com  |
-| whynot.osaka        | available | $39.99    | —             | 74             | 39     | 7      | name.com  |
 | prompts.osaka       | available | $39.99    | —             | 54             | 39     | 7      | name.com  |
 | neuroscience.osaka  | available | $39.99    | —             | 80             | 37     | 12     | name.com  |
 | teams.osaka         | available | $39.99    | —             | 62             | 32     | 5      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OSAKA One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OSAKA One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
