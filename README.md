@@ -83,7 +83,7 @@ print(df.head())
 | teams.osaka         | available | $39.99    | —             | 62             | 32     | 5      | name.com  |
 | letsgo.osaka        | available | $39.99    | —             | 57             | 31     | 7      | name.com  |
 | spaces.osaka        | available | $39.99    | —             | 54             | 30     | 6      | name.com  |
-| heroes.osaka        | available | $39.99    | —             | 68             | 29     | 6      | name.com  |
+| gods.osaka          | available | $39.99    | —             | 72             | 29     | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
