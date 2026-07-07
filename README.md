@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .osaka one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,734 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,734 domains · **Median ask:** $40.11 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,734 domains · **Median ask:** $39.96 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/osaka`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/osaka`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .OSAKA one-word domain
 
 ### Files
 
-- `osaka.csv` — public CSV extract (1,000 rows)
-- `osaka.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `osaka.csv`, public CSV extract (1,000 rows)
+- `osaka.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Trex.osaka          | available | $41.98    | —             | 80             | 24     | 5      | namecheap |
-| finals.osaka        | available | $39.99    | —             | 80             | 7      | 6      | name.com  |
-| forces.osaka        | available | $39.99    | —             | 82             | 12     | 6      | name.com  |
-| useit.osaka         | available | $39.99    | —             | 94             | 7      | 6      | name.com  |
-| gearup.osaka        | available | $39.99    | —             | 80             | 16     | 7      | name.com  |
-| playon.osaka        | available | $39.99    | —             | 80             | 14     | 7      | name.com  |
-| QandA.osaka         | available | $41.98    | —             | 80             | 10     | 7      | namecheap |
-| toneup.osaka        | available | $39.99    | —             | 80             | 5      | 7      | name.com  |
-| dogsick.osaka       | available | $39.99    | —             | 90             | 1      | 7      | name.com  |
-| IsleofMan.osaka     | available | $41.98    | —             | 62             | 91     | 11     | namecheap |
-| RedSox.osaka        | available | $41.98    | —             | 72             | 60     | 7      | namecheap |
-| keepthechange.osaka | available | $39.99    | —             | 46             | 59     | 15     | name.com  |
-| whynot.osaka        | available | $39.99    | —             | 74             | 44     | 7      | name.com  |
-| shortcuts.osaka     | available | $39.99    | —             | 48             | 41     | 10     | name.com  |
-| prompts.osaka       | available | $39.99    | —             | 54             | 39     | 7      | name.com  |
-| neuroscience.osaka  | available | $39.99    | —             | 80             | 37     | 12     | name.com  |
-| teams.osaka         | available | $39.99    | —             | 62             | 32     | 5      | name.com  |
-| letsgo.osaka        | available | $39.99    | —             | 57             | 31     | 7      | name.com  |
-| spaces.osaka        | available | $39.99    | —             | 54             | 30     | 6      | name.com  |
-| gods.osaka          | available | $39.99    | —             | 72             | 29     | 4      | name.com  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| age.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| arm.osaka | available | $39.99    | —             | high           | medium | 3      | name.com  |
+| cow.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| cue.osaka | available | $39.99    | —             | medium         | low    | 3      | name.com  |
+| des.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| for.osaka | available | $39.99    | —             | high           | medium | 3      | name.com  |
+| god.osaka | available | $39.99    | —             | high           | medium | 3      | name.com  |
+| hug.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| ive.osaka | available | $39.99    | —             | medium         | low    | 3      | name.com  |
+| lap.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| mop.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| non.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| set.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| SSI.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| tap.osaka | available | $39.99    | —             | high           | medium | 3      | name.com  |
+| ted.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| tub.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| use.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| van.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| veg.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .osaka domains. The set ranges from generic terms like tips.osaka and girls.osaka to shorter coined or ambiguous names such as Acup.osaka and barup.osaka. For founders, the main question is whether the word stays clear, memorable, and credible with a .osaka ending. For investors, the key test is whether the word has enough commercial relevance to justify the extension and the ask. With a median ask of 40.11, price is relatively accessible, but quality still depends on exact-match clarity, broad usability, and possible trademark friction in names like Trex.osaka or WiFi.osaka.
+This is a set of one-word .osaka domain names, ranging from everyday words to short compound phrases — including Apples.osaka, Edamame.osaka, RestAssured.osaka, and Furnishings.osaka. The median asking price across this selection is near $40, keeping single-word .osaka names accessible for founders building early-stage brands and investors scanning a broad, less-crowded TLD with 12,734 listed one-word domains. As a geographic TLD tied to Osaka, Japan, these names offer a distinctive alternative to saturated .com options.
 
-- Prioritize words that still read naturally with .osaka
-- Use exact meaning and memorability to separate weak names
-- Check trademark exposure on brand-like terms such as Trex
-- Low ask does not remove extension-fit or resale risk
+- 12,734 one-word .osaka domains currently listed
+- Median asking price near $40 across this selection
+- Short, ownable names like Apples.osaka and Forces.osaka
+- A lesser-known TLD with room for brandable picks
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OSAKA One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OSAKA One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
