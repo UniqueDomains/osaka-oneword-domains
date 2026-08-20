@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .osaka one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,668 domains · **Median ask:** $37.06 · **High-demand under $2,500:** 28
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/osaka`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| just.osaka      | available | $39.99    | —             | high           | medium | 4      | name.com  |
-| christmas.osaka | available | —         | —             | high           | low    | 9      | —         |
-| aft.osaka       | available | $32.98    | $41.98        | low            | low    | 3      | namecheap |
-| age.osaka       | available | $39.99    | —             | high           | low    | 3      | name.com  |
-| ain.osaka       | available | $32.98    | $41.98        | low            | low    | 3      | namecheap |
-| arm.osaka       | available | $39.99    | —             | high           | medium | 3      | name.com  |
-| cow.osaka       | available | $39.99    | —             | high           | low    | 3      | name.com  |
-| cue.osaka       | available | $39.99    | —             | medium         | low    | 3      | name.com  |
-| des.osaka       | available | $39.99    | —             | high           | low    | 3      | name.com  |
-| for.osaka       | available | $39.99    | —             | high           | medium | 3      | name.com  |
-| god.osaka       | available | $39.99    | —             | high           | medium | 3      | name.com  |
-| hug.osaka       | available | $39.99    | —             | high           | low    | 3      | name.com  |
-| ive.osaka       | available | $39.99    | —             | medium         | low    | 3      | name.com  |
-| lap.osaka       | available | $39.99    | —             | high           | low    | 3      | name.com  |
-| lxv.osaka       | available | $32.98    | $41.98        | low            | low    | 3      | namecheap |
-| mop.osaka       | available | $39.99    | —             | high           | low    | 3      | name.com  |
-| non.osaka       | available | $39.99    | —             | high           | low    | 3      | name.com  |
-| set.osaka       | available | $39.99    | —             | high           | low    | 3      | name.com  |
-| SSI.osaka       | available | $39.99    | —             | high           | low    | 3      | name.com  |
-| tap.osaka       | available | $39.99    | —             | high           | medium | 3      | name.com  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| aft.osaka | available | $32.98    | $41.98        | low            | low    | 3      | namecheap |
+| age.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| ain.osaka | available | $32.98    | $41.98        | low            | low    | 3      | namecheap |
+| arm.osaka | available | $39.99    | —             | high           | medium | 3      | name.com  |
+| cow.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| cue.osaka | available | $39.99    | —             | medium         | low    | 3      | name.com  |
+| des.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| for.osaka | available | $39.99    | —             | high           | medium | 3      | name.com  |
+| god.osaka | available | $39.99    | —             | high           | medium | 3      | name.com  |
+| hug.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| ive.osaka | available | $39.99    | —             | medium         | low    | 3      | name.com  |
+| lap.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| lxv.osaka | available | $32.98    | $41.98        | low            | low    | 3      | namecheap |
+| mop.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| non.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| set.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| SSI.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| tap.osaka | available | $39.99    | —             | high           | medium | 3      | name.com  |
+| ted.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| tub.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OSAKA One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OSAKA One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
