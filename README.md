@@ -1,10 +1,10 @@
-# Available .OSAKA One-Word Domains (28,215)
+# Available .OSAKA One-Word Domains (30,625)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C215%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C625%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .osaka one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,215 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,625 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,215 domains · **Median ask:** $35.28 · **High-demand under $2,500:** 34
+**Public extract:** 1,000 rows · **Live catalog:** 30,625 domains · **Median ask:** $34.94 · **High-demand under $2,500:** 31
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/osaka`
 **Best for:** founders, investors, studios
 
@@ -79,7 +79,7 @@ print(df.head())
 | lxv.osaka | available | $32.98    | $41.98        | low            | low    | 3      | namecheap |
 | mop.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
 | non.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
-| set.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
+| set.osaka | available | $32.98    | $41.98        | medium         | low    | 3      | namecheap |
 | ssi.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
 | tap.osaka | available | $39.99    | —             | high           | medium | 3      | name.com  |
 | ted.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,215 live domains                        |
+| 1,000-row public sample | 30,625 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 34 high-demand names under $2,500          |
+| Basic exported fields   | 31 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OSAKA One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OSAKA One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
