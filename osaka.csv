@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 c57bd17c-37e7-4727-a5a0-e8fdb2477a61,quash.osaka,available,32.98,41.98,high,low,5,namecheap,,,13/09/2026 06:42
-6d586d75-5538-44d4-a7d9-675eb2a55ed3,foreign.osaka,available,32.98,41.98,high,low,7,namecheap,,,
+6d586d75-5538-44d4-a7d9-675eb2a55ed3,foreign.osaka,available,32.98,41.98,high,low,7,namecheap,,,27/09/2026 06:58
 19c39ac5-e9c7-499f-9b7e-3bce8a8131a9,patois.osaka,available,32.98,41.98,medium,low,6,namecheap,,,13/09/2026 04:15
 0ca3469e-2107-4cb1-a3c6-42365559da2b,mrs.osaka,available,32.98,41.98,high,low,3,namecheap,,,25/09/2026 09:30
 6de57cd0-62fc-4fe1-be9e-56bddb00e580,banish.osaka,available,32.98,41.98,high,low,6,namecheap,,,24/09/2026 01:57
@@ -120,6 +120,7 @@ c341d647-639d-4775-84d1-46c15f9e3d4a,amputee.osaka,available,32.98,41.98,high,lo
 07ea39b7-607c-46e8-8aaa-318ba8448623,bagdad.osaka,available,39.99,,medium,low,6,name.com,,,
 3436df1e-5df5-43c8-b654-3454ffd944c3,cretin.osaka,available,32.98,41.98,medium,low,6,namecheap,,,21/08/2026 20:26
 e1b0dd16-4ac5-4b9e-864b-c7ae2b01a3c9,rosy.osaka,available,32.98,41.98,high,low,4,namecheap,,,18/08/2026 09:27
+0c0becb2-12b1-4fde-ac2a-a28c9b5a9061,robbed.osaka,available,32.98,41.98,low,low,6,namecheap,,,27/09/2026 02:44
 f9e71f19-5e26-4e71-a22a-e53ff93ee814,axseed.osaka,available,32.98,41.98,medium,low,6,namecheap,,,21/09/2026 10:31
 237e6e85-d696-4476-92eb-d23f2630ee35,former.osaka,available,32.98,41.98,high,low,6,namecheap,,,24/09/2026 21:24
 101e7367-e408-48f8-a29b-cd5dbb419dbe,dwell.osaka,available,32.98,41.98,high,low,5,namecheap,,,24/08/2026 07:49
@@ -136,6 +137,7 @@ e61720d0-90ed-4ae5-aa91-eb785643da8c,rancid.osaka,available,32.98,41.98,high,med
 20abdd53-2bcc-4db3-adc0-61210a9e8ba3,sporty.osaka,available,32.98,41.98,high,low,6,namecheap,,,10/09/2026 16:35
 949feb01-84df-404f-ae3c-590654536c34,xxx.osaka,available,,,high,medium,3,,,,
 a6f8111f-136a-4522-9897-6e7a3ba118bb,identity.osaka,available,32.98,41.98,high,medium,8,namecheap,,,23/09/2026 16:45
+24b39d47-c675-4b04-a502-3cbf8f7f2af0,calvin.osaka,available,32.98,41.98,high,high,6,namecheap,,,27/09/2026 03:28
 5d9408b9-ee99-4a22-af8b-8535270fbfb4,ministrant.osaka,available,32.98,41.98,medium,low,10,namecheap,,,24/08/2026 23:57
 2822d67e-cddc-4d31-9a46-b117c878cb65,depraved.osaka,available,32.98,41.98,medium,low,8,namecheap,,,14/08/2026 02:29
 167533fb-4b9f-4b8a-8bd5-894600f4035b,depleted.osaka,available,32.98,41.98,medium,low,8,namecheap,,,14/08/2026 02:23
@@ -164,6 +166,7 @@ e7bd3f36-5f0a-4be2-9c2d-198bf8e2932c,khakis.osaka,available,39.99,,high,low,6,na
 53a0ef47-4b5b-49e4-9a27-25802dd36070,barmaid.osaka,available,32.98,41.98,high,low,7,namecheap,,,22/09/2026 06:36
 d637a5ca-fd84-441a-b47d-547263b91ba4,troll.osaka,available,39.99,,high,low,5,name.com,,,
 feefc3d4-e671-4122-8d15-142a26f6d88d,hangdog.osaka,available,32.98,41.98,medium,low,7,namecheap,,,20/08/2026 23:41
+d375f523-62a8-43dc-a68c-5bc1338a15da,raf.osaka,available,32.98,41.98,high,low,3,namecheap,,,27/09/2026 05:07
 f7bbec21-7ee0-4b98-b94c-815672d3fe20,nearly.osaka,available,39.99,,high,low,6,name.com,,,
 567b9fc2-565b-4141-b620-77940550c50f,fierce.osaka,available,32.98,41.98,high,low,6,namecheap,,,23/09/2026 01:48
 c3ba8426-bec9-492d-afee-4a967955f361,childlike.osaka,available,32.98,41.98,high,low,9,namecheap,,,12/08/2026 05:12
@@ -211,6 +214,7 @@ a5bf1a22-447a-4417-b8ba-b585ca5afbcf,venereal.osaka,available,32.98,41.98,medium
 c887700b-1f03-4d4e-bce7-34602cd59f99,flabby.osaka,available,32.98,41.98,medium,low,6,namecheap,,,18/08/2026 06:05
 8654123a-6673-44e1-845e-f9b61f031bb7,purposive.osaka,available,32.98,41.98,high,low,9,namecheap,,,20/08/2026 15:51
 726aa561-edc2-4637-a824-660fbf11703f,rubbed.osaka,available,32.98,41.98,medium,low,6,namecheap,,,17/09/2026 07:54
+9609388e-39f5-4746-bc6f-a58a0dac79dc,sonora.osaka,available,39.99,39.99,high,low,6,name.com,,,27/09/2026 04:12
 163619a6-9f39-41bc-9e24-a19967030072,powerful.osaka,available,32.98,41.98,high,low,8,namecheap,,,23/09/2026 09:23
 518e5de5-ac28-439b-b43f-03d834b4313f,coalition.osaka,available,39.99,39.99,high,low,9,name.com,,,18/09/2026 07:45
 b8a42f22-574c-49dd-86d1-d2b264c9f845,applique.osaka,available,32.98,41.98,high,low,8,namecheap,,,19/09/2026 21:57
@@ -235,7 +239,6 @@ d194090b-c2ec-4055-bbac-1d390b70df5e,tough.osaka,available,32.98,41.98,high,low,
 419478aa-60bc-4bac-a230-3a15f4c9ffc5,bind.osaka,available,32.98,41.98,high,low,4,namecheap,,,22/09/2026 00:54
 7c240c8a-cd55-4ce3-b15d-b82ab601e85e,injure.osaka,available,39.99,,high,low,6,name.com,,,
 a9f65d31-d5d2-436d-b476-671e9ae87bd1,deejay.osaka,available,39.99,,high,low,6,name.com,,,
-f1ef539f-63fc-4745-bc86-a187f23e3886,queen.osaka,available,,,high,low,5,,,,
 98e23658-5ad8-47c1-9755-43fa062bb1fa,provoking.osaka,available,32.98,41.98,high,low,9,namecheap,,,
 c0dd5b54-997e-4a82-844a-74203810e555,career.osaka,available,,,high,low,6,,,,
 a9cbb3b5-71c4-41a5-a166-0fb06b287a33,baluchi.osaka,available,32.98,41.98,medium,low,7,namecheap,,,21/09/2026 23:42
@@ -264,7 +267,6 @@ ebdfe9e8-f225-4c3f-9787-03b6d1ff35a7,freaking.osaka,available,39.99,,medium,low,
 828eb023-3910-4bd9-988c-48d5e9fcc88d,antipodes.osaka,available,32.98,41.98,medium,low,9,namecheap,,,19/09/2026 14:59
 d8f802f4-8764-4b9b-82f8-4acdd4ee1060,prostyle.osaka,available,32.98,41.98,high,low,8,namecheap,,,09/09/2026 04:01
 8b84fa59-3549-4a66-9d46-1cd1e8ceebfb,unfair.osaka,available,39.99,,high,low,6,name.com,,,
-49fd4f39-15fb-4142-9647-38a3020ac030,airplane.osaka,available,,,high,low,8,,,,
 63e6dfae-adcf-4ba7-9273-bb490590ee48,rubberlike.osaka,available,32.98,41.98,high,medium,10,namecheap,,,09/09/2026 19:15
 31bad7a2-dea4-4a55-a0b6-9766bdea1c5f,plz.osaka,available,39.99,,high,low,3,name.com,,,
 b728b07e-3d43-4542-9c25-0c373feaeaef,county.osaka,available,32.98,41.98,high,low,6,namecheap,,,24/09/2026 18:41
@@ -304,7 +306,7 @@ e52cde30-0522-453e-9e2a-6482f44624bb,slantwise.osaka,available,32.98,41.98,mediu
 7d78f0fb-0082-426e-bbb1-27bc7c7ec77b,zymotic.osaka,available,32.98,41.98,medium,low,7,namecheap,,,13/09/2026 15:57
 0ee7e2a6-d3d2-40d9-9d0c-65ee2479e567,elective.osaka,available,32.98,41.98,high,low,8,namecheap,,,16/08/2026 02:33
 9ea95ba9-2b8d-4126-a823-aa6be54449b2,ardour.osaka,available,32.98,41.98,medium,low,6,namecheap,,,20/09/2026 03:15
-f14ec37b-d55b-4709-9267-be376c953a13,refuse.osaka,available,32.98,41.98,high,low,6,namecheap,,,25/09/2026 22:50
+f14ec37b-d55b-4709-9267-be376c953a13,refuse.osaka,available,32.98,41.98,medium,low,6,namecheap,,,27/09/2026 02:42
 c9105965-7e68-4106-b21d-6a2299f8e856,krupp.osaka,available,32.98,41.98,high,low,5,namecheap,,,18/09/2026 06:37
 015418b6-d982-4641-b00c-f63a70568ff9,ten.osaka,available,32.98,41.98,high,low,3,namecheap,,,21/09/2026 10:51
 37e0d8dc-1106-4c81-8a29-5e08bb8670af,summerset.osaka,available,32.98,41.98,high,low,9,namecheap,,,18/08/2026 08:29
@@ -314,6 +316,8 @@ b33a221e-b23c-4f7f-9a56-71c021eb96a0,manila.osaka,available,,,high,low,6,,,,
 48505937-7d3b-461b-9ecb-01c6bea04b11,gassy.osaka,available,32.98,41.98,medium,low,5,namecheap,,,12/08/2026 16:36
 a10e513c-0b3d-4bd9-ab72-dd1e9d8f1647,successive.osaka,available,32.98,41.98,high,low,10,namecheap,,,10/09/2026 04:29
 3b63fdf7-e72d-4c69-8081-7c16690b7794,sum.osaka,available,32.98,41.98,high,low,3,namecheap,,,21/09/2026 22:52
+cc5bf3e6-2310-4c21-9547-c90fb91ba212,gainesville.osaka,available,32.98,41.98,high,low,11,namecheap,,,27/09/2026 07:47
+33df73d4-44a0-4bcc-b766-9648991039b9,hesse.osaka,available,32.98,41.98,high,low,5,namecheap,,,27/09/2026 04:26
 81b7f669-c7a2-4762-abd2-88c4ac06cb15,contracted.osaka,available,32.98,41.98,high,low,10,namecheap,,,23/09/2026 22:26
 f9ab070e-e07a-4bfe-aeff-1551544f9767,finish.osaka,available,32.98,41.98,high,low,6,namecheap,,,08/09/2026 15:33
 4f5694b0-0130-4e84-8630-d9aa4ffca185,asa.osaka,available,32.98,41.98,high,low,3,namecheap,,,25/09/2026 12:30
@@ -323,6 +327,7 @@ aa2050f0-c714-4471-b998-ade522d453b6,pilar.osaka,available,32.98,41.98,high,medi
 8b886653-b8a6-4f9c-b68e-261cdf9be088,mogul.osaka,available,32.98,41.98,high,low,5,namecheap,,,23/09/2026 14:17
 2989fbaa-0953-4dd9-86ce-852663a90baa,alchemic.osaka,available,32.98,41.98,medium,low,8,namecheap,,,
 7c36f322-75e2-4ca9-a423-6123b7f3146d,ovoid.osaka,available,32.98,41.98,medium,low,5,namecheap,,,15/08/2026 18:50
+f7044d7f-3bed-4e4a-96ff-9842ec6eb37e,kathryn.osaka,available,39.99,39.99,high,low,7,name.com,,,27/09/2026 07:34
 51422110-3e4a-4dd5-bcfa-1d2d4e199f95,attenuator.osaka,available,32.98,41.98,medium,low,10,namecheap,,,21/09/2026 01:34
 139c9be1-8db6-4763-b9b4-763ec5138280,hang.osaka,available,39.99,,high,low,4,name.com,,,
 1208138a-6617-4f61-a16d-1808a891b24b,aleatory.osaka,available,32.98,41.98,medium,low,8,namecheap,,,
@@ -330,6 +335,7 @@ aa2050f0-c714-4471-b998-ade522d453b6,pilar.osaka,available,32.98,41.98,high,medi
 9fe85786-5fcb-495e-b13d-3a15553a0aa1,volunteer.osaka,available,32.98,41.98,high,low,9,namecheap,,,13/09/2026 07:13
 19dffd1d-fdb0-4b8b-8e4f-5c8bd46d7a03,tbd.osaka,available,39.99,,high,low,3,name.com,,,
 f7a14354-b70c-4754-9f5f-2280adbef591,angelim.osaka,available,32.98,41.98,medium,low,7,namecheap,,,19/09/2026 03:59
+7495717a-acad-41f5-8874-3c6c6f2bdc36,streak.osaka,available,32.98,41.98,high,low,6,namecheap,,,27/09/2026 11:41
 ca0a4ec7-ca22-46bd-94f2-ffa801cb2750,sashay.osaka,available,32.98,41.98,medium,low,6,namecheap,,,11/09/2026 05:14
 8541695e-5c10-4f9b-82ba-581aebd2a925,therefore.osaka,available,39.99,,high,low,9,name.com,,,
 a05883f9-0d7c-4263-85b8-56b3876fd067,augustine.osaka,available,32.98,41.98,high,low,9,namecheap,,,21/09/2026 04:01
@@ -342,6 +348,7 @@ d27a041c-f9fa-4401-a1b3-a56415ac5627,bontemps.osaka,available,32.98,41.98,high,l
 153f8427-08de-47c3-abc1-0e7b246ea845,commuter.osaka,available,32.98,41.98,high,low,8,namecheap,,,24/09/2026 16:39
 67043190-48d2-4a2f-8178-23201dac04ce,junior.osaka,available,32.98,41.98,high,low,6,namecheap,,,25/09/2026 12:12
 47ae38fb-4baf-4ab8-ad95-1c5307068a47,taint.osaka,available,32.98,41.98,high,low,5,namecheap,,,24/09/2026 17:39
+e8dcb375-d715-4ef7-a890-ef857de02251,jared.osaka,available,32.98,41.98,high,low,5,namecheap,,,27/09/2026 11:10
 64b2c046-012d-4e47-8406-1632b44f1b10,unseeing.osaka,available,32.98,41.98,high,medium,8,namecheap,,,10/09/2026 07:57
 d31e3c01-e82c-451f-aa30-f50380f517c2,nitrous.osaka,available,32.98,41.98,high,low,7,namecheap,,,08/08/2026 03:03
 41f473c1-2a72-48f5-9b6f-7b4a291b72a3,prow.osaka,available,32.98,41.98,medium,low,4,namecheap,,,18/08/2026 11:28
@@ -432,7 +439,6 @@ a849b449-f670-48ac-8d62-0f6a9d913784,vagabond.osaka,available,32.98,41.98,high,l
 fa8802f7-ca5d-45d5-8d5d-826bf079abb0,agiotage.osaka,available,32.98,41.98,medium,low,8,namecheap,,,17/09/2026 18:03
 988eafbc-c45a-4f67-8f7b-43524383ead8,baluster.osaka,available,32.98,41.98,medium,low,8,namecheap,,,22/09/2026 00:22
 ab3362ef-b9ab-41ee-8c58-d9697d1ee93d,unanimous.osaka,available,32.98,41.98,high,low,9,namecheap,,,12/08/2026 22:33
-316488d6-cc81-4c76-bd49-eafc85a759fc,ebay.osaka,available,,,high,high,4,,,,
 2b256c1d-23a8-49ee-b0c0-fc5a56d46c78,inured.osaka,available,32.98,41.98,medium,low,6,namecheap,,,17/08/2026 10:01
 d7bead86-90dd-47ca-8916-1d6f73080e65,wax.osaka,available,39.99,,high,low,3,name.com,,,
 0790a7fe-0eba-4bf0-88e0-dc925063b0a5,repeatedly.osaka,available,32.98,41.98,medium,low,10,namecheap,,,15/09/2026 23:12
@@ -462,7 +468,7 @@ fe42d642-1fad-47ce-bcb1-7f4a7c5332c4,baptism.osaka,available,32.98,41.98,high,lo
 76544b1d-059e-4853-842f-932af8755218,shocking.osaka,available,32.98,41.98,medium,low,8,namecheap,,,24/09/2026 11:12
 e9199466-690a-4d8b-b84b-390db083b461,maculate.osaka,available,32.98,41.98,medium,low,8,namecheap,,,13/08/2026 23:26
 2b76af89-0788-401e-aa5e-9258fea34432,hopeful.osaka,available,32.98,41.98,high,low,7,namecheap,,,22/09/2026 09:48
-4d8ca830-0173-4c27-b1dd-98911d44704b,rip.osaka,available,39.99,,high,low,3,name.com,,,
+4d8ca830-0173-4c27-b1dd-98911d44704b,rip.osaka,available,32.98,41.98,high,low,3,namecheap,,,27/09/2026 07:10
 35279e5d-e212-4dfe-92fc-a048be150fe1,malicious.osaka,available,32.98,41.98,high,low,9,namecheap,,,24/08/2026 14:02
 3301c912-9b9d-48e1-85da-94b5ff335263,entree.osaka,available,32.98,41.98,high,low,6,namecheap,,,16/09/2026 22:08
 ad062b15-7190-4bb3-87d0-221c397c3490,sequel.osaka,available,39.99,,high,low,6,name.com,,,
@@ -477,10 +483,11 @@ cb56e2ec-86c1-4053-9eeb-ec2a6e64a749,gibbous.osaka,available,32.98,41.98,medium,
 e5993f87-ee09-463b-9116-059e37b84319,loser.osaka,available,32.98,41.98,medium,low,5,namecheap,,,18/09/2026 14:19
 c7c03b4a-4f3e-4c16-854b-ae3490854eaa,hanger.osaka,available,39.99,,high,low,6,name.com,,,
 bdfe5288-1ee8-4919-abea-17d19bbf6311,photographers.osaka,available,32.98,41.98,medium,low,13,namecheap,,,19/09/2026 22:58
+03d66749-11dd-4cdf-91ef-b96ee56df190,warehouse.osaka,available,39.99,39.99,high,low,9,name.com,,,27/09/2026 06:03
 705eed15-1bf9-44a6-ae02-43c220489e1c,palestine.osaka,available,39.99,,high,high,9,name.com,,,
 d2394101-ff78-41c8-b202-eaa4968fe678,anabaptist.osaka,available,32.98,41.98,medium,low,10,namecheap,,,19/09/2026 00:49
 875bce58-5601-4b82-8e65-61335e4a89b8,concealed.osaka,available,32.98,41.98,high,low,9,namecheap,,,23/09/2026 18:33
-a5e1bb07-7a91-4411-b045-d7fca2d676ef,knock.osaka,available,39.99,,high,low,5,name.com,,,
+a5e1bb07-7a91-4411-b045-d7fca2d676ef,knock.osaka,available,32.98,41.98,high,low,5,namecheap,,,27/09/2026 03:49
 ea23b4b5-6daa-4a6b-8081-00a528f30faf,seamy.osaka,available,32.98,41.98,medium,low,5,namecheap,,,10/09/2026 00:49
 f914a2cd-1b82-499a-b3c1-49a0f8da5b15,runty.osaka,available,32.98,41.98,high,medium,5,namecheap,,,08/09/2026 19:54
 7eccaaec-3310-4a24-8fd0-e9f664621216,diplomatic.osaka,available,32.98,41.98,high,low,10,namecheap,,,24/09/2026 10:36
@@ -507,6 +514,7 @@ aef3ba12-dd52-49ab-8e74-32955f011e2e,shoveler.osaka,available,32.98,41.98,medium
 6f337b9f-9525-4908-9ffb-706251401449,restless.osaka,available,39.99,,high,low,8,name.com,,,
 05c5a140-c980-4a88-822a-039e7b79658c,bison.osaka,available,32.98,41.98,high,low,5,namecheap,,,23/09/2026 22:04
 ae427aaf-2cf4-4e92-be6e-10c55beb0d80,acerose.osaka,available,32.98,41.98,medium,low,7,namecheap,,,
+b90e3a83-600d-4009-b7a2-fde8981eee8c,fordham.osaka,available,32.98,41.98,medium,low,7,namecheap,,,27/09/2026 07:54
 17d58a7e-f372-4019-8cce-d2b7870e31d9,syrian.osaka,available,32.98,41.98,high,low,6,namecheap,,,11/09/2026 06:43
 37df83f0-85ec-42b9-bed1-6eeabf0d4d19,launched.osaka,available,32.98,41.98,high,low,8,namecheap,,,18/09/2026 13:03
 ff029100-fc5e-475f-9a41-51bad8704aad,overlooked.osaka,available,32.98,41.98,high,low,10,namecheap,,,04/09/2026 21:04
@@ -634,6 +642,7 @@ b03fdc2a-da95-4cb8-80ff-7fcd8225e7ef,elevation.osaka,available,32.98,41.98,high,
 d7c2c027-8954-40e7-b9ce-5e8aa43d0d74,pod.osaka,available,32.98,41.98,high,medium,3,namecheap,,,12/08/2026 15:05
 93e867df-aa99-4542-a660-cdd3ec79ad6a,obscenity.osaka,available,32.98,41.98,high,low,9,namecheap,,,22/09/2026 16:47
 49ca4789-5140-4e3c-984f-168c559541aa,deadly.osaka,available,32.98,41.98,medium,low,6,namecheap,,,22/09/2026 16:43
+4b48ef47-c504-48fd-b8b4-95d5e1acb3ef,keating.osaka,available,32.98,41.98,high,low,7,namecheap,,,27/09/2026 08:01
 82b79b33-16fc-49ec-9167-4a61738a0bad,resole.osaka,available,32.98,41.98,high,low,6,namecheap,,,10/09/2026 13:33
 b32c5742-eff3-439a-85b9-d3032807c689,beaches.osaka,available,32.98,41.98,high,low,7,namecheap,,,20/09/2026 07:25
 3500d015-142f-4fd7-a267-65683e0a460c,level.osaka,available,32.98,41.98,high,medium,5,namecheap,,,24/09/2026 15:32
@@ -647,7 +656,7 @@ eb635fa7-85a4-403b-8e38-c24cdfc31a56,attar.osaka,available,32.98,41.98,medium,lo
 21bd4558-dac3-4653-a490-82e5d6682540,crying.osaka,available,32.98,41.98,high,low,6,namecheap,,,24/09/2026 02:20
 2037cebc-ee8a-4c07-8bc6-0abbb646934f,upcoming.osaka,available,32.98,41.98,high,low,8,namecheap,,,06/08/2026 08:39
 1698a11a-5cb4-4b24-ae1f-455dc7cede14,bold.osaka,available,32.98,41.98,high,medium,4,namecheap,,,22/09/2026 23:09
-2b288a3b-6579-45b7-bb80-efcdbf9411bb,motivate.osaka,available,39.99,,high,low,8,name.com,,,
+2b288a3b-6579-45b7-bb80-efcdbf9411bb,motivate.osaka,available,32.98,41.98,high,low,8,namecheap,,,27/09/2026 07:34
 cd7c6e8f-8072-4c15-a637-e40612f5f68d,dorsum.osaka,available,32.98,41.98,high,low,6,namecheap,,,08/08/2026 05:12
 addf700f-687a-4151-aec0-e3bb240d1191,sodomy.osaka,available,39.99,39.99,medium,low,6,name.com,,,19/09/2026 01:34
 c9460794-5daa-4944-892b-0e85f218d0c0,christi.osaka,available,32.98,41.98,medium,low,7,namecheap,,,25/09/2026 21:26
@@ -683,7 +692,6 @@ d52a09a7-37eb-4c02-8f3e-fb7c955bea4e,tacit.osaka,available,32.98,41.98,high,low,
 c7559d77-ef21-4e1d-b0f3-5fb8f7244e5d,smilax.osaka,available,32.98,41.98,medium,low,6,namecheap,,,20/09/2026 14:41
 cf1e847b-1aac-473a-8154-cb2cd3cacc1e,piebald.osaka,available,32.98,41.98,medium,low,7,namecheap,,,03/09/2026 10:37
 f369c5f7-6857-4bfb-9153-d216762f8b4a,bemock.osaka,available,32.98,41.98,medium,low,6,namecheap,,,25/08/2026 02:26
-4c9fea99-dfec-475e-896c-488ab5865658,idea.osaka,available,,,high,high,4,,,,
 fae2e17b-7d47-4024-b143-9372a6042072,memorize.osaka,available,39.99,,high,low,8,name.com,,,
 99df34f6-3701-42a1-975f-5a12f89b939d,actions.osaka,available,32.98,41.98,medium,low,7,namecheap,,,
 f1d3c956-0510-47b6-8269-f73f14879f47,paper.osaka,available,39.99,,high,low,5,name.com,,,
@@ -703,7 +711,7 @@ a0b40cef-fda5-4528-99c1-1800f0e378de,potty.osaka,available,32.98,41.98,high,low,
 34c7bad9-ef0a-4c23-9b10-e49865bc18eb,alcoholics.osaka,available,32.98,41.98,low,low,10,namecheap,,,18/09/2026 22:27
 4425fc98-40bf-4ab4-85bd-4da8175998d1,unite.osaka,available,32.98,41.98,high,low,5,namecheap,,,24/09/2026 16:23
 67b36144-792e-48ce-9c1d-f6ff3e902a6a,apostasy.osaka,available,32.98,41.98,medium,low,8,namecheap,,,19/09/2026 19:16
-c986c1e2-ba13-410a-a277-4b671677361a,pass.osaka,available,39.99,,high,low,4,name.com,,,
+c986c1e2-ba13-410a-a277-4b671677361a,pass.osaka,available,32.98,41.98,high,low,4,namecheap,,,27/09/2026 02:49
 502b7bec-fd32-4228-a693-a2d66b8a86eb,clan.osaka,available,32.98,41.98,high,low,4,namecheap,,,22/08/2026 16:05
 0fa6cbbd-1ef3-4f29-b23a-142b1479b6b3,pasta.osaka,available,,,high,low,5,,,,
 dd8bf8b4-0be6-4729-8bd3-05e83fb7a0f0,sunnily.osaka,available,32.98,41.98,medium,low,7,namecheap,,,14/09/2026 06:41
@@ -745,6 +753,7 @@ b69f60c1-8ee2-48a3-8a53-595b66a40f10,cumulate.osaka,available,32.98,41.98,high,l
 a38ac0d6-c129-47c9-a5ac-22d38ac381a0,becket.osaka,available,32.98,41.98,high,low,6,namecheap,,,22/09/2026 22:36
 006e0095-acdd-49b2-a314-35714c42bd1a,vague.osaka,available,32.98,41.98,high,low,5,namecheap,,,25/09/2026 23:34
 dde6a999-060b-43a1-a4e7-9c11e78bb26d,solved.osaka,available,32.98,41.98,high,low,6,namecheap,,,10/09/2026 13:46
+63fb79b8-4207-4139-bef4-35d6ec518de4,criminals.osaka,available,39.99,39.99,low,low,9,name.com,,,27/09/2026 03:03
 f530f63f-7219-4f25-9d5c-5c8cec8dcf43,fries.osaka,available,32.98,41.98,high,low,5,namecheap,,,24/09/2026 14:42
 f8c9360c-e373-4f54-9345-836dd8f9679c,dejected.osaka,available,32.98,41.98,medium,low,8,namecheap,,,14/08/2026 00:19
 c8177b65-93c1-4e85-947b-38a10a4e70ef,cinnamon.osaka,available,39.99,,high,low,8,name.com,,,
@@ -769,6 +778,7 @@ a603fcf2-e277-460f-ab90-4165e77f75aa,shivering.osaka,available,32.98,41.98,high,
 2b186340-c5a6-4695-a85b-683a0ee6614a,boo.osaka,available,39.99,,high,low,3,name.com,,,
 4ed91f24-57ad-4f72-9a47-90e8045821f8,luggage.osaka,available,39.99,,high,low,7,name.com,,,
 c89d35c0-2bc1-41cf-879d-8912fec5bd89,marvell.osaka,available,32.98,41.98,high,low,7,namecheap,,,19/09/2026 04:47
+aebef1bd-5d98-4768-a5c3-e934a92a5792,fulbright.osaka,available,32.98,41.98,high,low,9,namecheap,,,27/09/2026 04:04
 0a28acf8-85d9-43d5-a28d-825ae526d0df,wrecked.osaka,available,39.99,,high,low,7,name.com,,,
 3e1ebf74-789d-4b1c-875b-b59e494ee98c,facing.osaka,available,39.99,,high,low,6,name.com,,,
 a7bd7407-0a11-4924-9bed-268328ed7172,eerie.osaka,available,32.98,41.98,high,low,5,namecheap,,,15/08/2026 12:43
@@ -777,6 +787,7 @@ f862c04d-d57d-4541-b08b-ba54cd9387cc,dour.osaka,available,32.98,41.98,medium,low
 ccc37df4-1756-44e5-a4e0-03f20a4d64a1,candescent.osaka,available,32.98,41.98,medium,low,10,namecheap,,,11/08/2026 16:39
 46a9d2ee-f1d7-4989-bb12-cc0a475a0ca6,afflatus.osaka,available,32.98,41.98,medium,low,8,namecheap,,,17/09/2026 14:39
 d39e88cc-5c73-4252-89a4-20155240630c,benzene.osaka,available,32.98,41.98,high,low,7,namecheap,,,23/09/2026 08:52
+530a7055-1368-4f75-ac7a-ec4ed6320469,scientists.osaka,available,32.98,41.98,medium,low,10,namecheap,,,27/09/2026 11:19
 f4675852-ed53-4104-a971-2240f352f09b,moslem.osaka,available,32.98,41.98,high,low,6,namecheap,,,22/08/2026 10:47
 e652a110-f660-4227-b2c2-a79e105b0be4,continued.osaka,available,39.99,39.99,high,low,9,name.com,,,23/09/2026 22:14
 e69cd78d-069d-4abd-be0b-7314e501aae4,boxlike.osaka,available,32.98,41.98,medium,low,7,namecheap,,,10/08/2026 23:56
@@ -835,6 +846,7 @@ e4dc2914-80fd-4e50-94fa-d19b659c22f8,testate.osaka,available,32.98,41.98,medium,
 89a67839-92f4-4d74-83de-18ebf91b1698,selling.osaka,available,32.98,41.98,high,low,7,namecheap,,,25/09/2026 09:15
 4b3ed498-03fc-42f0-a2d6-bd64c7e13c47,wanderer.osaka,available,32.98,41.98,high,low,8,namecheap,,,23/09/2026 20:11
 c3c16c8f-0a43-439c-ab5b-a8a04f3204a7,adopted.osaka,available,32.98,41.98,high,low,7,namecheap,,,
+a7cfbab3-0065-43a6-af09-61c9c30e315b,sticking.osaka,available,32.98,41.98,high,low,8,namecheap,,,27/09/2026 06:41
 0e11a3ce-9910-4cc3-ae15-65886f228212,closet.osaka,available,32.98,41.98,high,low,6,namecheap,,,24/09/2026 15:59
 bfbf2d3f-cab5-414b-9188-fccb284fd3b3,sycamore.osaka,available,32.98,41.98,high,low,8,namecheap,,,16/09/2026 23:36
 a1866d01-58fe-4e60-a978-107b87a6b005,dies.osaka,available,32.98,41.98,medium,low,4,namecheap,,,25/09/2026 16:12
@@ -871,6 +883,7 @@ ac2467ff-8838-4efc-a649-b30e4f4f56d8,priestly.osaka,available,32.98,41.98,high,l
 c247f79a-f1ce-4c82-8d9d-c8f759b9fca1,succinctly.osaka,available,32.98,41.98,medium,low,10,namecheap,,,16/09/2026 07:34
 e17ac84a-d0c4-464e-90f6-f9b83d523e6c,alarmism.osaka,available,39.99,39.99,medium,low,8,name.com,,,18/09/2026 01:58
 85c48930-c74c-44cd-92c8-9c1a92c17d90,binful.osaka,available,32.98,41.98,medium,low,6,namecheap,,,23/09/2026 17:14
+d206c716-f2f9-4595-aec2-a0ea0515a049,rollins.osaka,available,32.98,41.98,high,low,7,namecheap,,,27/09/2026 08:03
 e5e511bd-52b7-4343-b84d-f74db77b067e,sensate.osaka,available,32.98,41.98,high,low,7,namecheap,,,10/09/2026 03:44
 5f16b9f4-86ab-4788-aa48-bec12e93f97a,baboon.osaka,available,32.98,41.98,high,low,6,namecheap,,,21/09/2026 12:58
 d9ccb92a-24b7-41b5-a0e6-a6b655e905ed,soleless.osaka,available,32.98,41.98,low,low,8,namecheap,,,10/09/2026 13:37
@@ -920,7 +933,8 @@ dd5c4098-5b52-44ba-9394-c95fcf21e658,airworthy.osaka,available,32.98,41.98,mediu
 df44d7e1-d54a-4385-94ba-67fdf452771d,tantric.osaka,available,32.98,41.98,high,low,7,namecheap,,,11/09/2026 08:05
 15b190f7-a9da-427f-abf9-12d5d402737f,trillionaire.osaka,available,39.99,,high,low,12,name.com,,,
 0be4f5ce-7a00-4d2b-be45-e8bc4bafc7a3,historied.osaka,available,32.98,41.98,medium,low,9,namecheap,,,21/08/2026 09:53
-764020a5-f625-4379-a4e7-bfbce2e21ca2,standard.osaka,available,39.99,,high,medium,8,name.com,,,
+1901c1f5-c126-454f-9242-eecaffdad504,authorities.osaka,available,32.98,41.98,medium,low,11,namecheap,,,27/09/2026 02:17
+764020a5-f625-4379-a4e7-bfbce2e21ca2,standard.osaka,available,32.98,41.98,high,high,8,namecheap,,,27/09/2026 10:37
 a1c75ed6-fd3a-42c2-91aa-81b6e55a911c,unbranded.osaka,available,32.98,41.98,high,low,9,namecheap,,,12/09/2026 04:29
 9e2a3caa-5b19-4895-ac1f-ff5cd67f43e1,acquisition.osaka,available,32.98,41.98,high,low,11,namecheap,,,24/09/2026 02:35
 78ae83bc-da54-4402-a4f8-92de39524b07,vegetal.osaka,available,32.98,41.98,medium,low,7,namecheap,,,13/09/2026 01:42
@@ -985,17 +999,3 @@ fb636ccb-0575-41f3-b8bf-4fe490249061,xavier.osaka,available,32.98,41.98,high,low
 08ca7794-2998-4e58-a917-53abfbafe686,romish.osaka,available,32.98,41.98,medium,low,6,namecheap,,,05/09/2026 01:30
 accdd8e6-9b78-4752-9d5c-479188c6a426,peritoneal.osaka,available,32.98,41.98,medium,low,10,namecheap,,,08/09/2026 17:25
 101f5c67-7206-49c8-bf10-93021c342c4f,waste.osaka,available,32.98,41.98,high,low,5,namecheap,,,22/09/2026 17:29
-833c50e4-7580-46e6-9973-7ba22c8245d5,semihard.osaka,available,32.98,41.98,medium,low,8,namecheap,,,10/09/2026 03:04
-faf22996-3ce8-464b-abb3-3e18708b002d,understandable.osaka,available,39.99,,high,low,14,name.com,,,
-f3c0f6de-16c7-4085-9b52-ccfcb0bf61bd,adoptive.osaka,available,32.98,41.98,high,low,8,namecheap,,,
-2eff5d36-9678-4356-b905-a441d9c8652f,claim.osaka,available,39.99,,high,low,5,name.com,,,
-4c20423d-4c9e-4b25-9fad-50fb90d4a78a,alkyne.osaka,available,32.98,41.98,medium,low,6,namecheap,,,17/09/2026 00:25
-28b9d8d1-621f-4bfd-abab-29049832ee38,superable.osaka,available,32.98,41.98,medium,low,9,namecheap,,,11/09/2026 02:14
-6c682cd0-309a-4e55-9057-6b70df295777,blew.osaka,available,32.98,41.98,high,low,4,namecheap,,,25/09/2026 11:11
-e5afeaf4-ae05-4ffe-aece-db6d7dfa66dc,domination.osaka,available,32.98,41.98,high,low,10,namecheap,,,24/09/2026 23:26
-df1da72b-1477-4ca6-b3db-9cfc2eecf21f,arere.osaka,available,32.98,41.98,medium,low,5,namecheap,,,20/09/2026 03:56
-203679be-15ad-493a-aecb-dd522d0f04c0,threshold.osaka,available,32.98,41.98,high,low,9,namecheap,,,24/09/2026 10:33
-ff77b6fd-e08b-4c78-9c9a-551b2fcb18f3,palo.osaka,available,32.98,41.98,medium,low,4,namecheap,,,27/09/2026 01:51
-8b5d77ad-b926-495b-a13b-d87d4544ab33,protean.osaka,available,32.98,41.98,high,low,7,namecheap,,,09/09/2026 04:06
-15f3a551-5c0d-4466-b0f3-7dbdae985c6c,kilobyte.osaka,available,39.99,,high,low,8,name.com,,,
-c51bfaeb-4543-4d23-97f4-27adb5b44556,exonerated.osaka,available,32.98,41.98,high,low,10,namecheap,,,
