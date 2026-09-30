@@ -1,10 +1,10 @@
-# Available .OSAKA One-Word Domains (26,681)
+# Available .OSAKA One-Word Domains (28,974)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C681%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C974%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .osaka one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,681 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,974 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,681 domains · **Median ask:** $33.17 · **High-demand under $2,500:** 66
+**Public extract:** 1,000 rows · **Live catalog:** 28,974 domains · **Median ask:** $32.52 · **High-demand under $2,500:** 75
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/osaka`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | asa.osaka | available | $32.98    | $41.98        | high           | low    | 3      | namecheap |
 | atp.osaka | available | $26.68    | $26.88        | high           | low    | 3      | porkbun   |
 | bio.osaka | available | $39.99    | —             | high           | medium | 3      | name.com  |
-| boo.osaka | available | $32.98    | $41.98        | medium         | low    | 3      | namecheap |
-| cba.osaka | available | $26.68    | $26.88        | high           | low    | 3      | porkbun   |
+| boo.osaka | available | $32.98    | $41.98        | high           | low    | 3      | namecheap |
 | cva.osaka | available | $32.98    | $41.98        | medium         | low    | 3      | namecheap |
 | dis.osaka | available | $32.98    | $41.98        | high           | low    | 3      | namecheap |
+| dod.osaka | available | $26.68    | $26.88        | high           | low    | 3      | porkbun   |
+| ecg.osaka | available | $32.98    | $41.98        | high           | low    | 3      | namecheap |
+| foe.osaka | available | $26.97    | $26.97        | high           | low    | 3      | dynadot   |
+| gma.osaka | available | $26.68    | $26.88        | high           | low    | 3      | porkbun   |
 | has.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
 | hms.osaka | available | $32.98    | $41.98        | medium         | low    | 3      | namecheap |
 | idf.osaka | available | $32.98    | $41.98        | medium         | low    | 3      | namecheap |
+| iga.osaka | available | $26.97    | $26.97        | medium         | low    | 3      | dynadot   |
+| ipa.osaka | available | $32.98    | $41.98        | high           | low    | 3      | namecheap |
 | ipo.osaka | available | $26.97    | $26.97        | high           | low    | 3      | dynadot   |
+| iwo.osaka | available | $32.98    | $41.98        | high           | low    | 3      | namecheap |
+| kai.osaka | available | $32.98    | $41.98        | high           | medium | 3      | namecheap |
 | kfc.osaka | available | $32.98    | $41.98        | high           | low    | 3      | namecheap |
 | mrs.osaka | available | $32.98    | $41.98        | high           | low    | 3      | namecheap |
-| oss.osaka | available | $32.98    | $41.98        | high           | low    | 3      | namecheap |
-| out.osaka | available | $26.97    | $26.97        | high           | low    | 3      | dynadot   |
-| plz.osaka | available | $39.99    | —             | high           | low    | 3      | name.com  |
-| pod.osaka | available | $32.98    | $41.98        | high           | medium | 3      | namecheap |
-| pvc.osaka | available | $26.68    | $26.88        | high           | low    | 3      | porkbun   |
-| rae.osaka | available | $32.98    | $41.98        | medium         | low    | 3      | namecheap |
-| raf.osaka | available | $32.98    | $41.98        | high           | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,681 live domains                        |
+| 1,000-row public sample | 28,974 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 66 high-demand names under $2,500          |
+| Basic exported fields   | 75 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OSAKA One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OSAKA One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
